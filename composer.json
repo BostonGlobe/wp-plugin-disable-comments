@@ -1,0 +1,19 @@
+{
+	"name": "bostonglobe/wp-plugin-disable-comments",
+	"description": "Disables WP built in comment system, to prevent spam",
+	"homepage": "https://github.com/BostonGlobe/wp-plugin-disable-comments",
+	"type": "wordpress-plugin",
+	"repositories": [
+		{
+			"type": "vcs",
+			"url": "git@github.com:bostonglobe/wp-plugin-disable-comments.git"
+		}
+	],
+	"authors": [
+		{
+			"name": "Peter Mumford",
+			"email": "peter.mumford@globe.com",
+			"role": "Developer"
+		}
+	]
+}
